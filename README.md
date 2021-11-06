@@ -1,6 +1,13 @@
-# projet
 
-image de mon projet 
+#Projet developpement mobile 2021-2022
+
+
+pour lancer le back: 
+npm run develop
+pour lancer le front: 
+ionic serve 
+
+# image de mon projet 
 
 ![top](https://user-images.githubusercontent.com/43670885/140616878-7d10cd3d-c02d-4ebc-ac06-5144496e70fe.png)
 ![page4](https://user-images.githubusercontent.com/43670885/140616925-bee1dcbd-b560-472e-9023-e3602a6aca32.png)
