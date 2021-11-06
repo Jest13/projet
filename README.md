@@ -1,10 +1,16 @@
 
 #Projet developpement mobile 2021-2022
 
+pour installer ionic-cordova
+
+npm install -g ionic/cli cordova-res
 
 pour lancer le back: 
+
 npm run develop
+
 pour lancer le front: 
+
 ionic serve 
 
 # image de mon projet 
